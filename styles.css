@@ -52,6 +52,7 @@ nav {
     max-width: 1200px;
     margin: 20px auto;
     padding: 0 20px;
+  
 }
 
 .products h2 {
@@ -63,6 +64,7 @@ nav {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+  
 }
 
 .product-item {
